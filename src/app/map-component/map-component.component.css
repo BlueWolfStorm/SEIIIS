@@ -1,0 +1,52 @@
+.mapa{
+    position: relative;
+    left:0;
+}
+
+.my-hover1:hover{
+    cursor:pointer;
+    fill: yellow;
+    transition: fill 0.2s;
+}
+
+.my-hover2:hover{
+    cursor:pointer;
+    fill: blue;
+    transition: fill 0.2s;
+}
+
+.my-hover3:hover{
+    cursor:pointer;
+    fill: red;
+    transition: fill 0.2s;
+}
+
+.full-map{
+    height: 1200px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content{
+    border-radius: 1em;
+    padding: 1em;
+    background-color:#fddea5;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info{
+    flex:1;
+}
+
+.justify-text{
+    text-align: justify;
+}
+
+.images{
+    max-width:500px;
+    height: auto;
+}

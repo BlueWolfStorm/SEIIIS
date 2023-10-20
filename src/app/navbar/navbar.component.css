@@ -1,0 +1,73 @@
+nav {
+
+    background-color: #CEDEBD; /* COLOR PAGINA DEL FONDO */
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.2em;
+    border-radius: 20em;
+    height: 10%; /* Esto hará que la altura se ajuste automáticamente */
+    width: 30%;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+  nav ul {
+    list-style: none; /* removes the bullets! */
+    display: flex;/*Hola mundo*/
+    grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
+    margin: 0;
+    justify-content: space-around;
+  }
+
+  .format{
+    text-decoration: none;
+  }
+
+  .list{
+    width:auto;
+    display: flex;
+
+  }
+
+  .my-display{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+
+  .resolucion{
+    text-align: center;
+    padding-left: 38%;
+  }
+
+  @media(max-width: 767px){
+    .desktop{
+      display: none;
+    }
+
+  }
+
+  @media(min-width: 767px) and (max-width: 990px){
+    .desktop{
+      display: none;
+    }
+
+  }
+  nav a:link, nav a:visited {
+    color: black ;
+  }
+  nav a {
+    padding:1em;
+    min-width: 70px;
+  }
+  nav a:hover{
+    color: #CEDEBD  ;
+    background-color: #435334 ;
+  }
+
+  img {
+    width: 8%;
+    display: flex;
+
+  }
+

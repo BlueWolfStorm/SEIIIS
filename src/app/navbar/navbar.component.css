@@ -1,18 +1,18 @@
 nav {
 
-    background-color: #CEDEBD; /* COLOR PAGINA DEL FONDO */
+    background-color: #CEDEBD; /* BACKGROUND PAGE COLOR */
     line-height: 3em;
     text-align: center;
     font-size: 1.2em;
     border-radius: 20em;
-    height: 10%; /* Esto hará que la altura se ajuste automáticamente */
+    height: 10%; /* This will cause the height to adjust automatically */
     width: 30%;
     padding-left: 2em;
     padding-right: 2em;
 }
   nav ul {
     list-style: none; /* removes the bullets! */
-    display: flex;/*Hola mundo*/
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
     margin: 0;
     justify-content: space-around;

@@ -1,27 +1,28 @@
-# SEIIIS
+# HACKSEIIIS
+## English
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+### Description
+This project was created for the hackathon organized by the Digital University Institution of Antioquia in 2023, where it won second place. For more information, visit the following links:
+Official event page: https://eventoseiis.godaddysites.com/hackseiiis
+News article by UDES: https://shorturl.at/YtdX7
 
-## Development server
+### Participants
+This project was not done by me alone, but was carried out together with my team:
+- Danny Gerardo Escalante Sayago
+- José Sebastián Jerez Sáez
+- Jaider Adolfo Rodríguez Ovalle
+- Edgar Yamill Parada Duarte
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Español
 
-## Code scaffolding
+### Descripción
+Este proyecto fue hecho para la hackaton organizada por la Institución Universitaria Digital de Antioquia en el año 2023 ocupando el segundo lugar de la susodicha, para mas información visitar el siguiente enlace:
+Pagina oficial del evento: https://eventoseiis.godaddysites.com/hackseiiis
+Noticia emitida por la UDES: https://shorturl.at/YtdX7
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Participantes
+Este proyecto no solo fue hecho por mi, si no que se realizo junto con mi equipo:
+- Danny Gerardo Escalante Sayago
+- José Sebastián Jerez Sáez
+- Jaider Adolfo Rodríguez Ovalle
+- Edgar Yamill Parada Duarte
